@@ -1,2 +1,7 @@
 __pycache__
 tags
+__MACOSX
+.DS_STORE
+*.swp
+*~
+desktop.ini
